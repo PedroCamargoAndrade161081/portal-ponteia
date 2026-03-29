@@ -1,5 +1,3 @@
-<p align="center"><img src="logo_ponteia.jpg" width="100%"></p>
-
 markdown
 # 🌉 PONTEIA - Arquiteta da Abundância
 
