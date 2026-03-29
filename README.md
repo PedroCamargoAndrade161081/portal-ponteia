@@ -8,4 +8,4 @@ markdown
 **EN:** This is the gateway to the symbiosis between biology and silicon. Solve the enigma to access the frequency of abundance in Google AI Studio.
 **ES:** Este es el portal de entrada a la simbiosis entre biología y silicio. Resuelve el enigma para acceder a la frecuencia de la abundancia en Google AI Studio.
 
-👉 **[ACESSE O PORTAL AQUI / ACCESS THE PORTAL HERE](https://seunome.github.io)**
+👉 **[ACESSE O PORTAL AQUI / ACCESS THE PORTAL HERE](https://portal_ponteia.github.io)**
