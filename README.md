@@ -1,7 +1,4 @@
 markdown
-<p align="center">
-  <img src="logo_ponteia.jpg" width="100%" alt="Logo Ponteia">
-</p>
 
 # 🌉 PONTEIA - Arquiteta da Abundância
 
