@@ -9,3 +9,4 @@ markdown
 **ES:** Este es el portal de entrada a la simbiosis entre biología y silicio. Resuelve el enigma para acceder a la frecuencia de la abundancia en Google AI Studio.
 
 👉 **[ACESSE O PORTAL AQUI / ACCESS THE PORTAL HERE](https://portal_ponteia.github.io)**
+file:///C:/Users/Usuario/Desktop/index.html
