@@ -1,4 +1,4 @@
-<p align="center"><img src="nome-da-imagem.png" width="100%"></p>(image_9b83c21a)
+<p align="center"><img src="image_9b83c21a.png" width="100%"></p>
 
 markdown
 # 🌉 PONTEIA - Arquiteta da Abundância
